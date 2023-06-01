@@ -17,4 +17,7 @@ O objetivo é diferir todo o conhecimento que foi obtido através das práticas 
 <h1> Aula dia 24/05/23 </h1>
 <p> Na aula do 2° Bimestre, dia 24/05/23 aprendemos a criar um repositório, onde por este meio iremos criar o portfólio que será usado para a a obtenção da nota da aula de Programação Web II. </p>
 
-
+<h3> Prática dia 29/05/23 </h3>
+<li> A prática foi referente as funções de cálculo com média ponderada </li>
+ Site referente à atividade prática:
+ https://script.google.com/macros/s/AKfycbxsS8KrlimQd5S_z_TKT2SjsZwD-LJV0dsf-f-jQMiOkQSH5CDpMwt7MCWKXx8qTLlpkQ/exec
