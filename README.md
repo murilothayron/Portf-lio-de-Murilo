@@ -1,4 +1,4 @@
-# Portf-lio-de-Murilo
+# Portf-lio-de-Murilo   
 O objetivo é diferir todo o conhecimento que foi obtido através das práticas de atividades das aulas de Programação Web II.
 
 <h1> Conteúdos estudados </h1>
@@ -6,7 +6,7 @@ O objetivo é diferir todo o conhecimento que foi obtido através das práticas 
 <li> Aprendemos a utilizar o GitHub para criar repositórios de códigos e para manter o site online </li>
 <li> Criação do Portfólio para a obtenção da nota bimestral </li>
 
-<h3> Criação de sites com Google App Script </h3>
+<h3> Criação de sites com Google App Script </h3>  
 <p> Aprendemos a utilizar a ferramenta "Google App Script" para a criação de sites, cuja ferramenta permitia o uso de diversas funções distintas do google de modo em que todas as informações sejam armazenadas em um arquivo chamado "código.gs" </p>
 
 <h3> Criação de Tabelas </h3>
