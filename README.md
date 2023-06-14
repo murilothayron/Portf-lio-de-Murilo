@@ -34,4 +34,4 @@ O objetivo é diferir todo o conhecimento que foi obtido através das práticas 
 
  <h3> Prática dia 14/06/23</h3>
  <p> A prática foi referente ao método de ascenção ao URL, de modo que o servidor adquira informações pelo método do formulário e o exiba no log. Segue o exemplo abaixo.</p>
-![Screenshot_1](https://github.com/murilothayron/Portf-lio-de-Murilo/assets/129401152/59ee3b66-6cc4-40f2-9644-1b5cf4786a4f)
+(https://github.com/murilothayron/Portf-lio-de-Murilo/assets/129401152/59ee3b66-6cc4-40f2-9644-1b5cf4786a4f)
