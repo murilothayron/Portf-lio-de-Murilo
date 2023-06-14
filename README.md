@@ -29,4 +29,9 @@ O objetivo é diferir todo o conhecimento que foi obtido através das práticas 
  <h3> Prática dia 02/06/2023 </h3>
  <p> A prática foi referente à criação de uma página de login onde a página deve retornar o valor verdadeiro e falso, de forma que o email e senha estejam digitados corretamente. <p>
   Site da atividade prática 02/06/2023:
+
  https://script.google.com/macros/s/AKfycbzREtFQ0SEwK2T9AHM3CiFpgWlGobUR3vlGXc2WyO9LMekQ7iIPW-hVRgTjPZ4KQGdQOw/exec
+
+ <h3> Prática dia 14/06/23</h3>
+ <p> A prática foi referente ao método de ascenção ao URL, de modo que o servidor adquira informações pelo método do formulário e o exiba no log. Segue o exemplo abaixo.</p>
+![Screenshot_1](https://github.com/murilothayron/Portf-lio-de-Murilo/assets/129401152/59ee3b66-6cc4-40f2-9644-1b5cf4786a4f)
