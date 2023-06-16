@@ -35,3 +35,16 @@ O objetivo é diferir todo o conhecimento que foi obtido através das práticas 
  <h3> Prática dia 14/06/23</h3>
  <p> A prática foi referente ao método de ascenção ao URL, de modo que o servidor adquira informações pelo método do formulário e o exiba no log. Segue o exemplo abaixo.</p>
 (https://github.com/murilothayron/Portf-lio-de-Murilo/assets/129401152/59ee3b66-6cc4-40f2-9644-1b5cf4786a4f)
+
+<h3> Prática dia 16/06/23</h3>
+<p> A prática foi referente ao mesmo método de envio de dados visto anteriormente, porém com alguns critérios à mais. O sistema tem a função de eniar os dados do aluno para a planilha ao qual deve ser defimida, com o uso da tecnologia de obtenção do URL do arquivo, de modo que o arquivo código.gs tenha acesso ao URL do seu arquivo e envie os dados assim que digitados. Abaixo segue o resultado da prática:</p>
+
+Resultado da Prática:
+(https://github.com/murilothayron/Portf-lio-de-Murilo/assets/129401152/aadb2d6d-4035-47e1-8f78-edc07e4093b4)
+
+Arquivo Código.gs:
+(https://github.com/murilothayron/Portf-lio-de-Murilo/assets/129401152/7ccdd1c2-f8db-4e81-a8ca-c4a05debaf13)
+
+
+
+
