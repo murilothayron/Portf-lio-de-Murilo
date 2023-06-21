@@ -45,6 +45,14 @@ Resultado da Prática:
 Arquivo Código.gs:
 (https://github.com/murilothayron/Portf-lio-de-Murilo/assets/129401152/7ccdd1c2-f8db-4e81-a8ca-c4a05debaf13)
 
+<h3> Lista de Exercícios 21/06/23</h3>
+
+ <p> A lista de exercícios foi referente aos métodos anteriormente aprendidos, sendo eles os métodos POST e doPost, geralmente utilizados em formulários para enviar dados para determinados caminhos, como pastas ou planilhas criadas pelo usuário. </p>
+
+
+ (https://github.com/murilothayron/Portf-lio-de-Murilo/assets/129401152/d934db32-7db0-491b-9db8-a7e384669fc3)
+
+
 
 
 
