@@ -18,7 +18,7 @@ O objetivo é diferir todo o conhecimento que foi obtido através das práticas 
 
 
 
-<h1> Aula dia 24/05/23 </h1>
+<h3> Aula dia 24/05/23 </h3>
 <p> Na aula do 2° Bimestre, dia 24/05/23 aprendemos a criar um repositório, onde por este meio iremos criar o portfólio que será usado para a a obtenção da nota da aula de Programação Web II. </p>
 
 <h3> Prática dia 29/05/23 </h3>
